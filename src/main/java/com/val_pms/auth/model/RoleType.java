@@ -8,7 +8,7 @@ public enum RoleType {
     ROLE_SUPER_ADMIN("super_admin");
 
     public final String roleName;
-    private RoleType(String roleName) {
+    RoleType(String roleName) {
         this.roleName = roleName;
     }
 }
