@@ -8,10 +8,10 @@
         <version>3.1.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.val_pms</groupId>
+    <groupId>com.empathio</groupId>
     <artifactId>auth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>auth-service-VAL_PMS</name>
+    <name>auth-service-empathio</name>
     <description>Auth service for project management API</description>
     <properties>
         <java.version>17</java.version>
