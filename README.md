@@ -12,7 +12,7 @@ This is one of the api parts of my own project "Empathio". You are in a repo of 
 - The personality test that embedded in registration process. (Following the classification of Volkov Pavel Valerievich)
 - Anonymous. Guaranteed anonymity for users to create a comfortable environment for talking about personal issues.
 - Resources and articles on various psychology topics.
-- Tests and Assessments: The ability to take psychological tests for self-assessment and a deeper understanding of their emotional needs.
+- Tests and Assessments: The ability to take psychological tests for self-assessment and a deeper understanding of emotional needs.
 
 ### Initial application architecture:
 
