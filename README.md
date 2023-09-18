@@ -1,5 +1,5 @@
 # Empathio_auth_service
-This is one of the api parts of my own project "Empathio". Service for authentication and authorization
+This is one of the api parts of my own project "Empathio". You are in a repo of the service for authentication and authorization now
 
 
 ### _Empathio is a project for those who think that his/him life as an empty chest that has no meaning. I've just started this project and it doesn't include much functionality, but there are some features and functianality that will be implemented in the future:_
